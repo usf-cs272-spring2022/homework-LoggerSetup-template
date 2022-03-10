@@ -1,0 +1,12 @@
+[01T] LoggerSetup #22 main: Toucan 
+[02D] LoggerSetup #23 main: Dove 
+[03I] LoggerSetup #24 main: Ibis 
+[04W] LoggerSetup #25 main: Wren 
+[05E] LoggerSetup #26 main: Eastern java.lang.Exception: Eagle
+	at edu.usfca.cs272.LoggerSetup.outputMessages(LoggerSetup.java:26)
+[06F] LoggerSetup #27 main: Catching java.lang.RuntimeException: Finch
+	at edu.usfca.cs272.LoggerSetup.outputMessages(LoggerSetup.java:27)
+[07E] LoggerSetup #26 main: Eastern java.lang.Exception: Eagle
+	at edu.usfca.cs272.LoggerSetup.outputMessages(LoggerSetup.java:26)
+[08F] LoggerSetup #27 main: Catching java.lang.RuntimeException: Finch
+	at edu.usfca.cs272.LoggerSetup.outputMessages(LoggerSetup.java:27)
