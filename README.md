@@ -9,7 +9,7 @@ For this homework, you will setup and configure the `log4j2` logging library. Th
 
 The `log4j2` third-party package should be setup automatically by `maven` when you import this homework into Eclipse.
 
-Configure the root logger to output `WARN` messages and higher to the console only (no output to the file). Configure the class-specific `LoggerSetup` logger to output `INFO` messages and higher (more severe) to the console and `ALL` messages to a `debug.log` file in the current working directory. You can use the `log4j2.xml` example from lecture as a starting point.
+Configure the root logger to output `FATAL` messages and higher (more severe) to the console and `ERROR` messages and higher to the `debug.log` file in the current working directory. Configure the class-specific `LoggerSetup` logger to output `INFO` messages and higher to the console and `ALL` messages to a `debug.log` file. You can use the `log4j2.xml` example from lecture as a starting point.
 
 Only output the message and **short** error message (if appropriate) to the console. The expected console output should look like:
 
